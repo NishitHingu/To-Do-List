@@ -313,6 +313,7 @@ img{
 .short-event-info {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 0.25rem;
 }
 .newEvent-display-date-time {
     display: flex;
